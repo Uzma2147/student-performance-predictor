@@ -2,8 +2,6 @@
 
 A student performance predictor that cleans and explores student data, then compares Linear Regression, Decision Tree, and Random Forest models using MAE, MSE, and R². The best model (Linear Regression, R² of 0.88) powers a Streamlit app that predicts final marks and shows which factors help or hurt each student.
 
- **Source code:** https://github.com/YOUR-USERNAME/student-performance-predictor
-
 
 ##  Problem Statement
 
